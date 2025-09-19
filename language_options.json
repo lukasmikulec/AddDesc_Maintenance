@@ -1,6 +1,6 @@
-[
-  "en.wikipedia.org",
-  "de.wikipedia.org",
-  "sk.wikipedia.org",
-  "cs.wikipedia.org"
-]
+{
+    'en.wikipedia.org': 'en',
+    'de.wikipedia.org': 'de',
+    'sk.wikipedia.org': 'sk',
+    'cs.wikipedia.org': 'cs'
+}
