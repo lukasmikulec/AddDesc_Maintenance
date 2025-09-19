@@ -1,0 +1,89 @@
+code|en|de|sk
+tab_title|AddDesc|AddDesc|AddDesc
+page_title|AddDesc: Semi-automatic addition of descriptions on Wikidata|AddDesc: Halbautomatisches Hinzufügen von Beschreibungen auf Wikidata|AddDesc: Poloautomatické pridávanie popisov na Wikiúdajoch
+landing_page_heading|Add descriptions to Wikidata more efficiently|Fügen Sie Beschreibungen auf Wikidata effizienter|"Pridávajte popisy na Wikiúdaje efektívnejšie"
+landing_page_heading_item1|more effectively|effizienter|efektívnejšie
+landing_page_heading_item2|faster|schneller|rýchlejšie
+landing_page_heading_item3|more comfortably|bequemer|pohodlnejšie
+tool_initial_loading|Loading the tool|Werkzeug wird geladen|Nástroj sa načítava
+log_in_button|Log in|Anmelden|Prihlásiť sa
+log_in_popup|App login|App Anmeldung|Prihlásenie sa do aplikácie
+log_in_item1|You can allow this app to add Wikidata descriptions on your behalf after clicking the button below.|Nachdem Sie auf die Schaltfläche unten geklickt haben, können Sie dieser App erlauben, Wikidata-Beschreibungen in Ihrem Namen hinzuzufügen.|Po kliknutí na tlačidlo nižšie môžete tejto aplikácii povoliť pridávať popisy na Wikiúdaje pod vaším účtom.
+log_in_item2|This app doesn't need access to your password thanks to Wikimedia login (OAuth).|Diese App benötigt dank der Wikimedia-Anmeldung (OAuth) keinen Zugriff auf Ihr Passwort.|Táto aplikácia nepotrebuje prístup k vášmu heslu vďaka prihláseniu cez Wikimediu (OAuth).
+log_in_item3|You can revoke this app's access to your data at any time at|Sie können den Zugriff dieser App auf Ihre Daten jederzeit widerrufen auf|Prístup tejto aplikácie k vašim údajom môžete kedykoľvek odobrať na
+log_in_popup_button|Login with Wikimedia account|Mit Wikimedia Konto anmelden|Prihlásiť sa účtom Wikimedia
+log_in_after_oauth|Logging in|Anmeldung läuft|Prebieha prihlásenie
+not_logged_in_label|Not logged in|Nicht angemeldet|Nie ste prihlásení
+logout_button|Log out|Abmelden|Odhlásiť sa
+homepage_heading|I want to add descriptions...|Ich will Beschreibungen hinzufügen...|Chcem pridať popisy...
+homepage_option_1|For pages in category|Für Seiten in Kategorie|Pre stránky v kategórii
+homepage_option_2|For most viewed pages|Für meistgesehene Seiten|Pre najnavštevovanejšie stránky
+homepage_option_3|Prepared in a table file|Die in Tabelle-Datei vorbereitet sind|Pripravené v tabuľkovom súbore
+choose_category|Step {current_step} of {all_steps}: Choose category|Schritt {current_step} von {all_steps}: Kategorie wählen|Krok {current_step} z {all_steps}: Vyberte kategóriu
+category_toggle|Include subcategories|Unterkategorien einschließen|Zahrnúť aj stránky v podkategóriách
+inputbox_category_placeholder|eg. Political parties by country|z.B. Politische Partei nach Staat|napr. Politické strany podľa štátu
+subcategories_number|Category depth|Hierarchietiefe|Hĺbka vnorených kategórií
+continue|Continue|Weiter|Pokračovať
+back|Back|Zurück|Späť
+category_exists|Category **{category}** exists.|Kategorie **{category}** existiert.|Kategória **{category}** existuje.
+category_does_not_exist|Category **{category}** does not exist. Check your input.|Kategorie {category} existiert nicht. Bitte überprüfen Sie Ihre Eingabe.|Kategória **{category}** neexistuje. Skontrolujte zadaný text.
+choose_mode|I want to...|Ich will...|Chcem...
+choose_category_mode|Step {current_step} of {all_steps}: Mode choice|Schritt {current_step} von {all_steps}: Modus wählen|Krok {current_step} z {all_steps}: Vyberte mód"
+category_mode1|Get generated descriptions|Generierte Beschreibungen erhalten|Nechať vygenerovať popisy
+category_mode2|Add the same description to all pages|Allen Seiten die gleiche Beschreibung hinzufügen|Pridať všetkým stránkam rovnaký popis
+max_rows_table_toggle|Limit amount of rows in table|Zeilenanzahl in der Tabelle begrenzen|Obmedziť počet riadkov v tabuľke
+max_rows_table_text|Maximal amount of rows in table|Maximale Anzahl von Zeilen in der Tabelle|Maximálny počet riadkov v tabuľke
+category_same_description|Step 2a of 5: Enter description for all pages in category|Schritt 2a von 5: Geben Sie die Beschreibung für alle Seiten in der Kategorie ein|Krok 2a z 5: Zadajte popis pre všetky stránky v kategórii
+generate_table_button|Generate table|Tabelle generieren|Vytvoriť tabuľku
+prepare_descriptions|Step {current_step} of {all_steps}: Prepare descriptions|Schritt {current_step} von {all_steps}: Beschreibungen vorbereiten|Krok {current_step} z {all_steps}: Pripravte popisy
+prepare_descriptions_instruction|Double-click the cell with the suggested description and enter the final version.|Doppelklicken Sie auf die Zelle mit der vorgeschlagenen Beschreibung und geben Sie die endgültige Version ein|Ťuknite dvakrát na bunku s navhrovaným popisom a zadajte finálnu verziu.
+table_column1|Page name|Name der Seite|Názov stránky
+table_column2|Wikidata|Wikidata|Wikiúdaje
+table_column2_show|Item|Datenobjekt|Dátová položka
+table_column3|Suggested description|Vorgeschlagene Beschreibung|Navrhnutý popis
+table_column4|Wikpedia|Wikpedia|Wikpédia
+table_column4_show|Page|Seite|Stránka
+review_descriptions_button|Review descriptions|Beschreibungen überprüfen|Skontroluj popisy
+edit_descriptions_button|Edit descriptions|Beschreibungen ändern|Upraviť popisy
+publish_descriptions_button|Publish descriptions|Beschreibungen veröffentlichen|Publikovať popisy
+review_descriptions|Step {current_step} of {all_steps}: Review descriptions|Schritt {current_step} von {all_steps}: Beschreibungen überprüfen|Krok {current_step} z {all_steps}: Skontrolujte popisy
+publishing_descriptions|Step {current_step} of {all_steps}: Publishing descriptions|Schritt {current_step} von {all_steps}: Veröffentlichung der Beschreibungen|Krok {current_step} z {all_steps}: Publikujem popisy
+popular_step1|Step 1 of 4: Get list of most viewed pages|Schritt 1 von 4: Erhalten sie die Liste der meistgesehen Seiten|Krok 1 z 4: Získajte zoznam najpozeranejších stránok
+popular_step1_instruction|From the Page View Tool page, download the CSV file of the most viewed pages from the past month and upload it here.|Laden Sie auf der Seite des Page View Tools die CSV-Datei mit den meistgesehenen Seiten des letzten Monats herunter und laden Sie sie hier hoch.|Zo stránky Page View Tool stiahnite CSV súbor najpozeranejších stránok za posledný mesiac a nahrajte ho sem.
+page_view_tool_button|Open Page View Tool|Page View Tool öffnen|Otvoriť Page View Tool
+stop_publishing_button|Stop adding descriptions|Keine Beschreibungen mehr hinzufügen|Zastaviť pridávanie popisov
+publishing_text|Publishing descriptions|Ich veröffentliche Beschreibungen|Publikujem popisy
+publishing_item|Adding description **{description}** for page **{page_name}** (Wikidata item: **{wikidata_item})|Ich füge Beschreibung **{description}** der Seite **{page_name}** zu (Wikidata-Datenobjekt: **{wikidata_item}**)|Pridávam popis **{description}** stránke **{page_name}** (Wikidata objekt: **{wikidata_item})**)
+publishing_item_log|Added description **{description}** for page **{page_name}** (Wikidata item: **{wikidata_item})|Beschreibung **{description}** der Seite **{page_name}** hinzugefügt (Wikidata-Datenobjekt: **{wikidata_item}**)|Pridaný popis **{description}** stránke **{page_name}** (Wikidata objekt: **{wikidata_item}**)
+publishing_item_failed_warning|Failed adding description **{description}** for page **{page_name}** (Wikidata item: **{wikidata_item}**. Add it manually, please.|Fehler beim Hinzufügen der Beschreibung {description} für die Seite {page_name} (Wikidata-Element: {wikidata_item}). Bitte fügen Sie sie manuell hinzu.|Stránke **{page_name}** (Wikidata objekt: **{wikidata_item})** sa nepodarilo pridať popis **{description}**. Pridajte ho, prosím, manuálne.
+all_descriptions_published|All descriptions were published.|Alle Beschreibungen wurden veröffentlicht.|Všetky popisy boli publikované.
+descriptions_published_stopped|All descriptions before the interruption were published.|Alle Beschreibungen vor der Unterbrechung wurden veröffentlicht.|Všetky popisy pred prerušením boli publikované.
+to_homepage|To homepage|Zur Startseite|Na domovskú stránku
+publishing_remaining_time_5+min|Publishing descriptions. {minutes} minutes and {seconds} seconds remaining.|Veröffentlichung der Beschreibungen. {minutes} Minuten und {seconds} Sekunden übrig.|Publikujem popisy. Zostáva {minutes} minút a {seconds} sekúnd.
+publishing_remaining_time_4-2min|Publishing descriptions. {minutes} minutes and {seconds} seconds remaining.|Veröffentlichung der Beschreibungen. {minutes} Minuten und {seconds} Sekunden übrig.|Publikujem popisy. Zostávajú {minutes} minúty a {seconds} sekúnd.
+publishing_remaining_time_1min|Publishing descriptions. {minutes} minute and {seconds} seconds remaining.|Veröffentlichung der Beschreibungen. {minutes} Minute und {seconds} Sekunden übrig.|Publikujem popisy. Zostáva {minutes} minúta a {seconds} sekúnd.
+publishing_remaining_time_0min|Publishing descriptions. {seconds} seconds remaining.|Veröffentlichung der Beschreibungen. {seconds} Sekunden übrig.|Publikujem popisy. Zostáva {seconds} sekúnd.
+login_failed_info|Login failed. Please try closing this tab and reopening the application.|Die Anmeldung ist fehlgeschlagen. Bitte versuchen Sie, diesen Tab zu schließen und die Anwendung neu zu öffnen.|Prihlásenie sa nepodarilo. Skúste zatvoriť túto kartu a otvoriť aplikáciu nanovo.
+getting_data_table|Getting data and preparing table.|Datenabruf und Tabellenvorbereitung|Získavam dáta a pripravujem tabuľku.
+suggesting_descriptions|Suggesting descriptions|Beschreibungen vorschlagen|Navrhujem popisy
+session_timeout_message|You have been logged out due to inactivity. Please log in again.|Sie wurden aufgrund von Inaktivität abgemeldet. Bitte melden Sie sich erneut an.|Odhlásili sme vás kvôli nečinnosti. Prihláste sa znovu.
+popular_publishing_descriptions|Step {current_step} of {all_steps}: Publishing descriptions|Schritt {current_step} von {all_steps}: Veröffentlichung der Beschreibungen|Krok {current_step} z {all_steps}: Publikujem popisy
+logged_out_heading|You logged out|Sie haben sich abgemeldet|Odhlásili ste sa
+logged_out_text|To log in again, refresh the tab.|Um sich wider anzumelden, laden Sie die Seite neu.|Ak sa chcete znovu prihlásiť, obnovte stránku.
+page_without_wikidata_object|The page **{page_title}** ({page_URL}) does not have a Wikidata entry. It will not be included in the table.|Die Seite **{page_title}** ({page_URL}) hat keinen Wikidata-Datenobjekt. Sie wird nicht in die Tabelle aufgenommen.|Stránka **{page_title}** ({page_URL}) nemá položku Wikidata. V tabuľke nebude zahrnutá.
+cateogry_article_search|Searching through all pages in the category|Durchsuchen von allen Seiten in der Kategorie|Prehľadávam všetky stránky v kategórii
+issue_validating_session_message|There was in issue validating session. Log in again, please.|Es gab ein Problem bei der Validierung der Sitzung. Bitte loggen Sie sich erneut ein.|Vyskytol sa problém pri overovaní používateľskej relácie. Prosím, prihláste sa znova.
+description_changing_information|Descriptions containing information likely to change ({count})|Beschreibungen mit Informationen, die sich ändern könnten ({count})|Popisy s informáciami, ktoré sa pravdepodobne zmenia ({count})
+description_full_stop|Descriptions with full stop at the end ({count})|Beschreibungen mit Punkt am Ende ({count})|Popisy s bodkou na konci ({count})
+description_capital_letter|Descriptions beginning with capital letter ({count})|Beschreibungen beginnend mit einem Großbuchstaben ({count})|Popisy začínajúce veľkým písmenom ({count})
+description_too_long|Lengthy descriptions with more than 12 words ({count})|Lange Beschreibungen mit mehr als 12 Wörtern ({count})|Dlhé popisy s viac ako 12 slovami ({count})
+description_first_word|Words which usually do not appear in the beginning of a description ({count})|Wörter, die üblicherweise nicht am Anfang einer Beschreibung stehen ({count})|Slová, ktoré sa zvyčajne nevyskytujú na začiatku popisu ({count})
+description_opinionated|Descriptions with opinionated, biased or promotional wording ({count})|Beschreibungen mit wertender, voreingenommener oder werblicher Formulierung ({count})|Popisy s hodnotiacim, zaujatým alebo propagačným znením ({count})
+row_with_error|Row {row_number}: {description}|Zeile {row_number}: {description}|Riadok {row_number}: {description}
+check_desc_issues|Check these potential issues|Überprüfen Sie diese potenziellen Probleme|Skontrolujte tieto potenciálne problémy
+recheck_issues_button|Recheck the errors|Überprüfen Sie die Probleme erneut|Znova skontrolovať problémy
+registration_issue|You have to be registered at least for 30 days to use this tool.|Sie müssen seit mindestens 30 Tagen registriert sein, um dieses Tool nutzen zu können.|Na používanie tohto nástroja musíte byť zaregistrovaní aspoň 30 dní.
+privacy_policy|Privacy policy|Datenschutzrichtlinie|Ochrana osobných údajov
+file_step1|Step 1 of 4: Upload table file with descriptions|Schritt 1 von 4: Tabellle-Datei mit Beschreibungen hochladen|Krok 1 z 4: Nahrajte tabuľkový súbor s popismi
+file_step1_instruction|The column with Wikipedia page names has to have a title 'Page' and description column 'Description'. The table has to be saved as a csv file with comma (,) as a delimiter and UTF-8 encoding.|Die Spalte mit Wikipedia-Seite muss 'Page' und die Spalte mit Beschreibungen 'Description' bennant sein. Die Tabelle muss als CSV-Datei gespeichert werden, wobei das Komma (,) als Trennzeichen und UTF-8 als Kodierung verwendet wird.|Stĺpec so stránkami Wikipédie musí byť pomenovaný 'Page' a stĺpec s popismi 'Description'. Tabuľka musí byť uložená ako CSV súbor, pričom ako oddeľovač musí byť použitá čiarka (,) a kódovanie musí byť nastavené na UTF-8.
+maintenance_text|Maintenance: from {maintenance_date_start} {maintenance_time_start} GMT until {maintenance_date_end} {maintenance_time_end} GMT. Please finish your work before as your progress will be lost.|Wartungsarbeiten: ab {maintenance_date_start} {maintenance_time_start} GMT bis {maintenance_date_end} {maintenance_time_end} GMT. Bitte beenden Sie Ihre Arbeit vorher, da Ihr Fortschritt sonst verloren geht.|Údržba: od {maintenance_date_start} {maintenance_time_start} GMT do {maintenance_date_end} {maintenance_time_end} GMT. Prosím, ukončite svoju prácu vopred, inak stratíte vaše zmeny.
